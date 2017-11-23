@@ -1,2 +1,2 @@
 # armbsd
-ARMBSD - it's OS for ARM CPU based on FreeBSD.
+ARMBSD - it's OS for ARM CPU devices based on FreeBSD.
